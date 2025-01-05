@@ -14,8 +14,10 @@ A Simple CPU that contains Latches, ALU, FSM, and decoder in Verilog, simulated 
 ## Simulation Results
 
 ### CPU Testbench ###
+_____________________
 ![image](https://github.com/user-attachments/assets/f610f1e9-f08e-4b80-96b7-f8f26a6ebdaa)
 ### Predicted Results ###
+_________________________
 a = 2, b = 1
 - State 0 | Operation: Addition | Result: out1 = 01 (0), out2 = 06 (3) |
 - State 1 | Operation: Subtraction | Result: out1 = 01 (0), out2 = 4f (1) |
