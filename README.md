@@ -8,7 +8,7 @@ A Simple CPU that contains Latches, ALU, FSM, and decoder in Verilog, simulated 
 - **Seven-Segment Display**: Displays results of operations and error states.
 - Modular design with separate files for each major component.
 
-### Design Details ###
+## Design Details 
 
 #### FSM (Finite State Machine)
 - Implements a Mealy state machine to control CPU operations based on the input signal and clock cycles.
