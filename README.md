@@ -23,7 +23,8 @@ A Simple CPU that contains Latches, ALU, FSM, and decoder in Verilog, simulated 
 - Converts binary outputs from the ALU into human-readable digits displayed on a seven-segment display.
 
 ## Block Diagram ##
-![Screenshot 2025-01-04 153939](https://github.com/user-attachments/assets/3e093fb4-e86e-40ca-8dec-ac4f7bc88fec)
+![image](https://github.com/user-attachments/assets/b1616a6f-4d52-4547-9411-f2588862c927)
+
 
 ## Simulation Results
 
