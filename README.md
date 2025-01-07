@@ -33,14 +33,14 @@ _____________________
 ### Predicted Results ###
 _________________________
 a = 2, b = 1
-- State 0 | Operation: Addition | Result: out1 = 01 (0), out2 = 06 (3) |
+- State 0 | Operation: Addition    | Result: out1 = 01 (0), out2 = 06 (3) |
 - State 1 | Operation: Subtraction | Result: out1 = 01 (0), out2 = 4f (1) |
-- State 2 | Operation: Not a | Result: out1 = 4f (1), out2 = 06 (3) |
-- State 3 | Operation: NAND | Result: out1 = 4f (1), out2 = 24 (5) |
-- State 4 | Operation: NOR | Result: out1 = 4f (1), out2 = 12 (2) |
-- State 5 | Operation: AND | Result: out1 = 01 (0), out2 = 01 (0) |
-- State 6 | Operation: XOR | Result: out1 = 01 (0), out2 = 06 (3) |
-- State 7 | Operation: XNOR | Result: out1 = 4f (1), out2 = 12 (2) |
+- State 2 | Operation: Not a       | Result: out1 = 4f (1), out2 = 06 (3) |
+- State 3 | Operation: NAND        | Result: out1 = 4f (1), out2 = 24 (5) |
+- State 4 | Operation: NOR         | Result: out1 = 4f (1), out2 = 12 (2) |
+- State 5 | Operation: AND         | Result: out1 = 01 (0), out2 = 01 (0) |
+- State 6 | Operation: XOR         | Result: out1 = 01 (0), out2 = 06 (3) |
+- State 7 | Operation: XNOR        | Result: out1 = 4f (1), out2 = 12 (2) |
   
 ![image](https://github.com/user-attachments/assets/2200b3b1-ec0c-44e0-ab00-9f15b2f4a598)
 
